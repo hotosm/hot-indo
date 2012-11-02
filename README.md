@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Selamat datang di layanan OSM Indonesia
 =======================================
 
@@ -37,13 +36,3 @@ Hopefully, someone will respond and you will get an answer or someone assigned t
 
 
 ###Thank you!  Terima kasih!###
-
-
-
-
-=======
-hot-indo
-========
-
-Place to log tickets for the HOT Indonesia Team
->>>>>>> 0f9b3428718e322db26e50ea47802203895dfffb
