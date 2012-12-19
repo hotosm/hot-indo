@@ -23,7 +23,6 @@ Other Useful Web-Based Tools<br>
 
 Introduction and Basics  
 -----------------------
-
 ###*The OSM homepage... ###
 You can [sign up], log-in and edit with Potlatch at the [OSM Homepage].	
 [sign up]:https://www.openstreetmap.org/user/new
@@ -46,6 +45,9 @@ A few more [links] with other useful [OSM tools].
 [links]: http://osmtools.de/osmlinks/
 [OSM tools]: http://www.osm-tools.org/
 
+###*OSM Fight###  
+A fun way to motivate mappers and editors.  This [site] compares the contributions of two mappers and calculate who has created more nodes, ways, relations, GPS traces and other things.
+[site]:  http://osmfight.neis-one.org/
 Data Collection	
 ----------------
 ###*Walking Papers###
@@ -92,6 +94,11 @@ A [wiki page] detailing websites and tools for making OSM error free.
 A simple interface for non-mappers to [report bugs].  Mappers and programmers can fix these errors.   There is also an OpenStreetBugs-Plugin in JOSM to report [bugs]. 	
 [report bugs]: http://openstreetbugs.schokokeks.org/
 [bugs]: http://wiki.openstreetmap.org/wiki/OpenStreetBugs
+
+###*How did you contribute to OpenStreetMap?###  
+Search for OSM editors (case-sensitive) through this [site].  It details the type of editor (how many days, active mapping days, type of mapper) and how many nodes, ways and relations to which he or she has contributed.  It also charts the number of mapping days, changesets and country locations.  
+[site]: http://hdyc.neis-one.org/
+
 
 
 
@@ -156,7 +163,7 @@ Wiki pages that describe the [downloading process] and [list other sites] to dow
 
 
 
-Data Servers: PostGIS and Mapnik Configuration	
+DataBases: PostGIS and Mapnik Configuration	
 ----------------------------------------------
 ###*Post GIS###
 PostGIS provides a way of storing large volumes of data for a GeoServer.  Read more about it through [blogs], tutorials and websites. 
@@ -282,6 +289,10 @@ If you want to see who is mapping in your area, or anywhere in the world, right 
 [link]: http://live.openstreetmap.fr
 
 ###*WhoDidIt###
-A new website devoted to determining who edited objects
+A new website devoted to determining who edited objects.
+
+###*OpenStreetView###
+A [site] devoted to uploading photos of streetviews on openstreetmap.
+[site]: http://openstreetview.org/
 
 
