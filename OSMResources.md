@@ -5,21 +5,17 @@ Useful OSM Links
 
 INDEX
 ------
-Introduction and Basics  <br>
-Data Collection	<br>
-Quality Assurance<br>
-Presets and Tagging Conventions<br>
-Tasking Manager<br>
-Downloading/Extracting Data<br>
-Data Servers: PostGIS and Mapnik Configuration<br>
-Printing and Displaying OSM Maps<br>
-QGIS<br>
-Community Support and Resources	<br>
-Other Useful Web-Based Tools<br>
-
-
-
-
+<1. Introduction and Basics  <br>
+<2. Data Collection	<br>
+<3. Quality Assurance<br>
+<4. Presets and Tagging Conventions<br>
+<5. Tasking Manager<br>
+<6. Downloading/Extracting Data<br>
+<7. Data Servers: PostGIS and Mapnik Configuration<br>
+<8. Printing and Displaying OSM Maps<br>
+<9. QGIS<br>
+<10. Community Support and Resources	<br>
+<11. Other Useful Web-Based Tools<br>
 
 Introduction and Basics  
 -----------------------
@@ -40,14 +36,15 @@ The [homepage] to OSM’s wiki pages. From here, you can find other wiki sites d
 All information regarding [JOSM] that you will need.  It includes updates, plug-ins, tutorials and video manuals.	
 [JOSM]: http://josm.openstreetmap.de/
 
-###*More tools###
+###*Other tools###
 A few more [links] with other useful [OSM tools]. 	
 [links]: http://osmtools.de/osmlinks/
 [OSM tools]: http://www.osm-tools.org/
 
-###*OSM Fight###  
+###*OSM Fight  
 A fun way to motivate mappers and editors.  This [site] compares the contributions of two mappers and calculate who has created more nodes, ways, relations, GPS traces and other things.
 [site]:  http://osmfight.neis-one.org/
+
 Data Collection	
 ----------------
 ###*Walking Papers###
@@ -289,7 +286,8 @@ If you want to see who is mapping in your area, or anywhere in the world, right 
 [link]: http://live.openstreetmap.fr
 
 ###*WhoDidIt###
-A new website devoted to determining who edited objects.
+A new [website] devoted to determining who edited objects.
+[website]: http://zverik.osm.rambler.ru/whodidit/
 
 ###*OpenStreetView###
 A [site] devoted to uploading photos of streetviews on openstreetmap.
