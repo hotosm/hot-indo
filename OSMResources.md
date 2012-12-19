@@ -5,19 +5,20 @@ Useful OSM Links
 
 INDEX
 ------
-<1. Introduction and Basics  <br>
+<1.[link text] (#Introduction and Basics)  <br>
 <2. Data Collection	<br>
-<3. Quality Assurance<br>
-<4. Presets and Tagging Conventions<br>
-<5. Tasking Manager<br>
-<6. Downloading/Extracting Data<br>
-<7. Data Servers: PostGIS and Mapnik Configuration<br>
-<8. Printing and Displaying OSM Maps<br>
-<9. QGIS<br>
-<10. Community Support and Resources	<br>
-<11. Other Useful Web-Based Tools<br>
+<3. Imagery <br>
+<4. Quality Assurance<br>
+<5. Presets and Tagging Conventions<br>
+<6. Tasking Manager<br>
+<7. Downloading/Extracting Data<br>
+<8. Data Servers: PostGIS and Mapnik Configuration<br>
+<9. Printing and Displaying OSM Maps<br>
+<10. QGIS<br>
+<11. Community Support and Resources	<br>
+<12. Other Useful Web-Based Tools<br>
 
-Introduction and Basics  
+#Introduction and Basics  
 -----------------------
 ###*The OSM homepage... ###
 You can [sign up], log-in and edit with Potlatch at the [OSM Homepage].	
@@ -72,6 +73,13 @@ These links([Garmin Support]&[Pinns]) also include directions on how to download
 The [homepage] for the free software, GPS Babel, which converts GPS data into mapping programs.  	
 [homepage]:http://www.gpsbabel.org/ 
 
+[link text]Imagery Collection and Tools
+-----------------------------
+Find maps and other imagery, upload, and rectify against a real map.
+You can then download and use the rectified map in your mapping applications.
+Just sign up and you can start uploading and get warping!
+
+
 ###*Mapping Balloons###
 If you do not have access to satellite imagery or the imagery is poor (due to pixelation or cloud coverage), gathering data from balloons may be an option for you. Visit the [public laboratory] and/or [grassroots mapping].  	
 [public laboratory]: http://publiclaboratory.org/tool/balloon-mapping
@@ -95,8 +103,6 @@ A simple interface for non-mappers to [report bugs].  Mappers and programmers ca
 ###*How did you contribute to OpenStreetMap?###  
 Search for OSM editors (case-sensitive) through this [site].  It details the type of editor (how many days, active mapping days, type of mapper) and how many nodes, ways and relations to which he or she has contributed.  It also charts the number of mapping days, changesets and country locations.  
 [site]: http://hdyc.neis-one.org/
-
-
 
 
 Presets and Tagging Conventions	
@@ -241,9 +247,12 @@ Check out the documentation at [http://help.github.com/pages] or contact support
 
 Community Support and Resources	
 -------------------------------
-###*OSM Facebook###
-A [facebook group] devoted to Indonesian support.
+The [ultimate site] for all things related to the OSM Foundation.  The Foundation works to grow OSM membership, moderate conflicts, and ensure that OSM is kept free and open. 
+ [ultimate site]: http://www.osmfoundation.org/wiki/Main_Page
 
+###*OSM Facebook###
+A [facebook group] devoted to OSM support.
+[facebook group]: http://www.facebook.com/OpenStreetMap?fref=ts
 
 ###*Twitter
 OSM Twitter Handle [@OSMblogs],[@OpenStreetMap], etc.
@@ -260,6 +269,16 @@ Indonesian [Facebook] and Twitter support (Emir style)	[@OSM_ID] [@HOTOSM]
 A collection of mailing lists regarding openstreetmap.  Ranging from specific tools to OSM in certain countries, these mailing lists require subscriptions for editing tips, bugs and community support. 	
 http://lists.openstreetmap.org/listinfo; 
 http://lists.openstreetmap.org/listinfo/talk-id 
+
+###*Mapping Trading Cards###
+Further [cards] made on request, send [Richard] your OSM username and a profile image(ideally 600x600px).
+[cards]: http://imgur.com/a/MH6g4#WvpHF
+[Richard]: http://www.openstreetmap.org/user/rw__
+
+###*OpenstreetMap USA###
+The USA OpenstreetMap [Blog].  Great resource for mapping parties and events. 
+[blog]:http://www.openstreetmap.us/
+
 
 Other Useful Web-Based Tools
 ----------------------------	
