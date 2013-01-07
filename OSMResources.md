@@ -312,4 +312,9 @@ A new [website] devoted to determining who edited objects.
 A [site] devoted to uploading photos of streetviews on openstreetmap.
 [site]: http://openstreetview.org/
 
+###*Shareabouts###
+[Shareabouts] is an online mapping tool to gather crowdsourced public input in a social and engaging process.  Feel free to look at existing [projects] for inspiration.
+[Shareabouts]: http://shareabouts.org/
+[projects]: https://github.com/openplans/shareabouts/wiki/Projects-that-use-Shareabouts
+
 
